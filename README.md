@@ -1,4 +1,4 @@
-# AFLORAR
+# AFLORAR 🌿
 
 O **Aflorar** é um projeto acessível para monitoramento de terrários utilizando um sensor DHT11 conectado a uma Raspberry Pi 4. Ele coleta dados de temperatura e umidade, armazena essas informações em um banco de dados MySQL e permite a visualização por meio de uma interface gráfica desenvolvida em Java (Swing).
 
@@ -28,7 +28,7 @@ O **Aflorar** é um projeto acessível para monitoramento de terrários utilizan
 - **Putty**
 - **Mariadb** (mySql)
 
-## 🚀 Instalação e Configuração
+## ⚙️ Instalação e Configuração
 1. **Configurar a Raspberry Pi:**
    - Conectar o sensor DHT11 aos pinos GPIO da Raspberry Pi
    - Instalar as dependências necessárias para leitura do sensor
@@ -41,7 +41,7 @@ O **Aflorar** é um projeto acessível para monitoramento de terrários utilizan
    - Compilar e executar a interface gráfica
    - Verificar a comunicação com o banco de dados
 
-## 🎯 Melhorias Futuras
+## 💡 Melhorias Futuras
 - Integração com API para alertas
 - Suporte para mais sensores
 - Gráficos para análise de histórico
