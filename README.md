@@ -41,7 +41,7 @@ O **Aflorar** é um projeto acessível para monitoramento de terrários utilizan
    - Compilar e executar a interface gráfica
    - Verificar a comunicação com o banco de dados
 
-## 💡 Melhorias Futuras
+## 💡 Melhorias futuras
 - Integração com API para alertas
 - Suporte para mais sensores
 - Gráficos para análise de histórico
